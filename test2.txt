@@ -1,0 +1,8 @@
+This is the file Line
+This is the second Line
+This is the third text line
+These are all our multiple lines
+The first time I entered them, all got deleted
+BEWARE!!!
+
+I am trying to understand how files are taken care of in python
